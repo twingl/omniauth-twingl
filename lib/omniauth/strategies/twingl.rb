@@ -23,7 +23,7 @@ module OmniAuth
       end
 
       def raw_info
-        @raw_info ||= access_token.get('/users/me').parsed
+        @raw_info ||= access_token.get('/flux/users/me').parsed
       end
     end
   end
