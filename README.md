@@ -22,7 +22,7 @@ docs](https://github.com/intridea/omniauth) for more information
 
 ## License
 
-Copyright (C) 2013 by Greg Signal and Twingl.
+Copyright (C) 2013 Twingl Ltd.
 
 Based on works (omniauth-oauth2) Copyright (C) 2011 by Michael Bleigh and
 Intridea, Inc.
